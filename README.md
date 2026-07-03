@@ -1,5 +1,7 @@
 # Aleph-NELOS-1D-
 
+This keeps changing as I keep tweeking it.
+RE:One dimensional data flow and storage.
 
 Hello, this is breaking the system at it's finest.  Help me break and repair this operating system that turns the flow of data into a 1D computational powerhouse perfect for universalist decentralized deterministic systems.
 You told us in one of your posts that got up on my account that you wanted people to break the internent monopoly and create decentralized operating systems that can communicate through divergent telemetric communication.  
