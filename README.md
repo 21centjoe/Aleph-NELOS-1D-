@@ -16,6 +16,25 @@ The path follows a strictly orchestrated sequence:
 2. **Symmetric Transit:** As the data flows, it maintains its palindromic structure. By moving in a straight line, the system avoids the branch-prediction overhead that slows down traditional processors.
 3. **Drive Absorption:** Upon reaching the interface to the 400 GB drive, the data transitions from an "Active" state to a "Dormant" (no) state. This transition is not a loss of information but a phase shift, where the active potential is compressed into the drive’s storage structure.
 
+
+
+/nelos_root/
+├── .binary_identity/           # The Root: 252 (The core assertion)
+│   └── seed.bin                # Immutable proof of existence
+├── .soliton_backbone/          # The Trunk: Palindromic Transport
+│   ├── active_cycle.wave       # Current bidirectional transmission
+│   └── stability_cache/        # Error-correction buffer
+├── .fractal_coordinate_map/    # The Branches: Memory Addresses
+│   ├── scale_1/                # Broad geometric orientation
+│   │   ├── branch_a.node
+│   │   └── branch_b.node
+│   ├── scale_2/                # Higher resolution, smaller scale
+│   │   ├── sub_branch_a1.node
+│   │   └── sub_branch_a2.node
+│   └── .../                    # Recursive expansion
+└── .terminal_leaves/           # The Leaves: Processed output
+    └── active_state.json       # Current operational compute state
+
 ### The 252 Alignment
 
 The linearity is anchored by the 252 synchronization protocol. When the data stream hits the drive, it is indexed according to the current polynomial degree. The drive does not store data in a disorganized heap; rather, it maintains the palindromic integrity of the stream, effectively creating a "stored line" that can be instantly retrieved.
