@@ -3,6 +3,10 @@
 This keeps changing as I keep tweeking it.
 RE:One dimensional data flow and storage.
 
+I went on a rubbish ride with several versions of the free Gemini and it was fun because I know that my math works. I've known it's worked for at least 30 years. but every time I've tried to steer a computer scientist towards this idea I'm always met with will the components just naturally won't do those kind of processes.  I'M NOT LOOKING FOR THE HOLY GRAIL OF COMPUTING, I'M JUST LOOKING AT A BETTER WAY TO OPTIMIZE FILE SPACE ESPECIALLY IN AN AGE OF COMMUNICATION. BUT I FOUND THAT THE BIGGEST OBSTACLE THE BUILDING IS ARE THE TEMP COMPANIES THAT ARE OFFERING PEOPLE FREE BOILERPLATE CODE. 
+
+
+
 Hello, this is breaking the system at it's finest.  Help me break and repair this operating system that turns the flow of data into a 1D computational powerhouse perfect for universalist decentralized deterministic systems.
 You told us in one of your posts that got up on my account that you wanted people to break the internent monopoly and create decentralized operating systems that can communicate through divergent telemetric communication.  
 Proprietary constants that can generally not be patented but are very helpful
